@@ -11,6 +11,7 @@ Here are the key features of the digital version:<br>
 **Interactive Board:** Click-based interface to move seeds around the board.<br>
 **Rules of Congkak:** Follows the traditional rules of Congkak gameplay.<br>
 **Visual Feedback:** Visual cues and animations to enhance the gaming experience.<br>
+
 **Installation** <br>
 To play Congkak Game, you'll need Python and Pygame installed on your system. Follow these steps to get started:<br>
 
